@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Riau" size="320.000000 320.000000" />
+    <ImageTarget name="JawaTimur" size="569.000000 569.000000" />
+    <ImageTarget name="Jambi" size="600.000000 600.000000" />
+    <ImageTarget name="Aceh" size="480.000000 480.000000" />
+    <ImageTarget name="Bali" size="500.000000 500.000000" />
+    <ImageTarget name="Gorontalo" size="500.000000 500.000000" />
+    <ImageTarget name="SulawesiTengah" size="328.000000 328.000000" />
+    <ImageTarget name="Banten" size="300.000000 300.000000" />
+    <ImageTarget name="SulawesiTenggara" size="400.000000 400.000000" />
+    <ImageTarget name="SulawesiSelatan" size="490.000000 490.000000" />
+    <ImageTarget name="MalukuUtara" size="570.000000 570.000000" />
+    <ImageTarget name="SulawesiBarat" size="470.000000 470.000000" />
+    <ImageTarget name="JawaBarat" size="200.000000 200.000000" />
+    <ImageTarget name="Maluku" size="349.000000 349.000000" />
+    <ImageTarget name="Jakarta" size="549.000000 549.000000" />
+    <ImageTarget name="NusaTenggaraBarat" size="407.000000 407.000000" />
+  </Tracking>
+</QCARConfig>

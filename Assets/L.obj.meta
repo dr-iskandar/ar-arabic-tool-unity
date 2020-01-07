@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: ee549d858efff034a8ab69b09649ace7
+timeCreated: 1479906132
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ButtonHead_25100
+    100002: ButtonHead_25103
+    100004: ButtonHead_34023
+    100006: ButtonHead_34026
+    100008: ButtonHead_34029
+    100010: ButtonHead_34032
+    100012: eyebrow001Mesh_Shape0
+    100014: eyelashes02Mesh_Shape0
+    100016: female1605Mesh_Shape0
+    100018: //RootNode
+    100020: low-polyMesh_Shape0
+    100022: Pattern2D_262038
+    100024: Pattern2D_533062
+    100026: Pattern2D_534133
+    100028: Pattern2D_654966
+    100030: Pattern2D_654967
+    100032: Pattern2D_707095
+    100034: Pattern2D_707732
+    100036: Pattern2D_796807
+    100038: ponytail01Mesh_Shape0
+    400000: ButtonHead_25100
+    400002: ButtonHead_25103
+    400004: ButtonHead_34023
+    400006: ButtonHead_34026
+    400008: ButtonHead_34029
+    400010: ButtonHead_34032
+    400012: eyebrow001Mesh_Shape0
+    400014: eyelashes02Mesh_Shape0
+    400016: female1605Mesh_Shape0
+    400018: //RootNode
+    400020: low-polyMesh_Shape0
+    400022: Pattern2D_262038
+    400024: Pattern2D_533062
+    400026: Pattern2D_534133
+    400028: Pattern2D_654966
+    400030: Pattern2D_654967
+    400032: Pattern2D_707095
+    400034: Pattern2D_707732
+    400036: Pattern2D_796807
+    400038: ponytail01Mesh_Shape0
+    2300000: ButtonHead_25100
+    2300002: ButtonHead_25103
+    2300004: ButtonHead_34023
+    2300006: ButtonHead_34026
+    2300008: ButtonHead_34029
+    2300010: ButtonHead_34032
+    2300012: eyebrow001Mesh_Shape0
+    2300014: eyelashes02Mesh_Shape0
+    2300016: female1605Mesh_Shape0
+    2300018: low-polyMesh_Shape0
+    2300020: Pattern2D_262038
+    2300022: Pattern2D_533062
+    2300024: Pattern2D_534133
+    2300026: Pattern2D_654966
+    2300028: Pattern2D_654967
+    2300030: Pattern2D_707095
+    2300032: Pattern2D_707732
+    2300034: Pattern2D_796807
+    2300036: ponytail01Mesh_Shape0
+    3300000: ButtonHead_25100
+    3300002: ButtonHead_25103
+    3300004: ButtonHead_34023
+    3300006: ButtonHead_34026
+    3300008: ButtonHead_34029
+    3300010: ButtonHead_34032
+    3300012: eyebrow001Mesh_Shape0
+    3300014: eyelashes02Mesh_Shape0
+    3300016: female1605Mesh_Shape0
+    3300018: low-polyMesh_Shape0
+    3300020: Pattern2D_262038
+    3300022: Pattern2D_533062
+    3300024: Pattern2D_534133
+    3300026: Pattern2D_654966
+    3300028: Pattern2D_654967
+    3300030: Pattern2D_707095
+    3300032: Pattern2D_707732
+    3300034: Pattern2D_796807
+    3300036: ponytail01Mesh_Shape0
+    4300000: ButtonHead_25100
+    4300002: ButtonHead_25103
+    4300004: ButtonHead_34023
+    4300006: ButtonHead_34026
+    4300008: ButtonHead_34029
+    4300010: ButtonHead_34032
+    4300012: eyebrow001Mesh_Shape0
+    4300014: eyelashes02Mesh_Shape0
+    4300016: female1605Mesh_Shape0
+    4300018: low-polyMesh_Shape0
+    4300020: Pattern2D_262038
+    4300022: Pattern2D_533062
+    4300024: Pattern2D_534133
+    4300026: Pattern2D_654966
+    4300028: Pattern2D_654967
+    4300030: Pattern2D_707095
+    4300032: Pattern2D_707732
+    4300034: Pattern2D_796807
+    4300036: ponytail01Mesh_Shape0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

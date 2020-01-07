@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kelas" size="1.000000 1.209804" />
+    <ImageTarget name="kaos" size="1.000000 1.209804" />
+    <ImageTarget name="Lampu" size="1.000000 1.209804" />
+    <ImageTarget name="Tas" size="1.000000 1.209804" />
+    <ImageTarget name="Guru" size="1.000000 1.209804" />
+    <ImageTarget name="Dinding" size="1.000000 1.209804" />
+    <ImageTarget name="AnakPerempuan" size="1.000000 1.209804" />
+    <ImageTarget name="AnakLakiLaki" size="1.000000 1.209804" />
+    <ImageTarget name="DuaPenghapus" size="1.000000 1.209804" />
+    <ImageTarget name="Kebun" size="1.000000 1.209804" />
+    <ImageTarget name="Penghapus" size="1.000000 1.209804" />
+    <ImageTarget name="Pulpen" size="1.000000 1.209804" />
+    <ImageTarget name="Rumah" size="1.000000 1.209804" />
+    <ImageTarget name="Sekolah" size="1.000000 1.209804" />
+    <ImageTarget name="Surat" size="1.000000 1.209804" />
+    <ImageTarget name="Sumur" size="1.000000 1.209804" />
+    <ImageTarget name="SapuTangan" size="1.000000 1.209804" />
+    <ImageTarget name="Piring" size="1.000000 1.209804" />
+    <ImageTarget name="Peta" size="1.000000 1.209804" />
+    <ImageTarget name="PapanTulis" size="1.000000 1.209804" />
+    <ImageTarget name="Kunci" size="1.000000 1.209804" />
+    <ImageTarget name="Kitab" size="1.000000 1.209804" />
+    <ImageTarget name="Kertas" size="1.000000 1.209804" />
+    <ImageTarget name="Jam" size="1.000000 1.209804" />
+  </Tracking>
+</QCARConfig>

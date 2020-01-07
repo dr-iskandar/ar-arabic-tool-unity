@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="50Oleole" size="1.000000 1.380338" />
+    <ImageTarget name="49Kecapi" size="1.000000 1.380338" />
+    <ImageTarget name="48SulingBangka" size="1.000000 1.381144" />
+    <ImageTarget name="47Taganing" size="1.000000 1.380338" />
+    <ImageTarget name="46BatakGarantung" size="1.000000 1.380338" />
+    <ImageTarget name="45Fu" size="1.000000 1.379227" />
+    <ImageTarget name="44Pikon" size="1.000000 1.381144" />
+    <ImageTarget name="43Tifa" size="1.000000 1.380338" />
+    <ImageTarget name="42Rumba" size="1.000000 1.380338" />
+    <ImageTarget name="41Marwas" size="1.000000 1.380338" />
+    <ImageTarget name="40KesoKeso" size="1.000000 1.381144" />
+    <ImageTarget name="39Kolintang" size="1.000000 1.381144" />
+    <ImageTarget name="38Japen" size="1.000000 1.380338" />
+    <ImageTarget name="37Balikan" size="1.000000 1.381144" />
+    <ImageTarget name="36Sampe" size="1.000000 1.381144" />
+    <ImageTarget name="35Sasando" size="1.000000 1.379227" />
+    <ImageTarget name="34GendangBeleq" size="1.000000 1.381144" />
+    <ImageTarget name="33Gerantang" size="1.000000 1.379227" />
+    <ImageTarget name="32Rindik" size="1.000000 1.380338" />
+    <ImageTarget name="31Genggong" size="1.000000 1.381144" />
+    <ImageTarget name="30Saronen" size="1.000000 1.380338" />
+    <ImageTarget name="29Gong" size="1.000000 1.380338" />
+    <ImageTarget name="28Gengceng" size="1.000000 1.381144" />
+    <ImageTarget name="27TrompetReog" size="1.000000 1.380338" />
+    <ImageTarget name="26Bonang" size="1.000000 1.380338" />
+    <ImageTarget name="25Panting" size="1.000000 1.381144" />
+    <ImageTarget name="24Siter" size="1.000000 1.380338" />
+    <ImageTarget name="23Dambus" size="1.000000 1.381144" />
+    <ImageTarget name="22Saron" size="1.000000 1.381144" />
+    <ImageTarget name="21Kendang" size="1.000000 1.380032" />
+    <ImageTarget name="20Lesung" size="1.000000 1.381144" />
+    <ImageTarget name="19Rebab" size="1.000000 1.380338" />
+    <ImageTarget name="18Angklung" size="1.000000 1.381144" />
+    <ImageTarget name="17Seruling" size="1.000000 1.381144" />
+    <ImageTarget name="16Karinding" size="1.000000 1.380032" />
+    <ImageTarget name="15Tehyan" size="1.000000 1.380032" />
+    <ImageTarget name="14Cetik" size="1.000000 1.380338" />
+    <ImageTarget name="13GendangPanjang" size="1.000000 1.380338" />
+    <ImageTarget name="12Dol" size="1.000000 1.380338" />
+    <ImageTarget name="11Serdam" size="1.000000 1.381144" />
+    <ImageTarget name="10RebanaSike" size="1.000000 1.380338" />
+    <ImageTarget name="9Nafiri" size="1.000000 1.381144" />
+    <ImageTarget name="8Kompang" size="1.000000 1.380338" />
+    <ImageTarget name="7Gambus" size="1.000000 1.380338" />
+    <ImageTarget name="6Talempong" size="1.000000 1.381144" />
+    <ImageTarget name="5Saluang" size="1.000000 1.380338" />
+    <ImageTarget name="4TaktokTrieng" size="1.000000 1.380032" />
+    <ImageTarget name="3Geundrang" size="1.000000 1.380032" />
+    <ImageTarget name="2BangsiAlas" size="1.000000 1.380032" />
+    <ImageTarget name="1SeruneKalee" size="1.000000 1.380032" />
+  </Tracking>
+</QCARConfig>
